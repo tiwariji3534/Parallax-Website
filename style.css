@@ -8,15 +8,15 @@ html,body{
     color: orangered
 }
 .img1{
-    background-image: url(images/flower.jpg);
+    background-image: url(flower.jpg);
     min-height: 100%;
 }
 .img2{
-    background-image: url(images/grass.jpg);
+    background-image: url(grass.jpg);
     min-height: 700px;
 }
 .img3{
-    background-image: url(images/30106.jpg);
+    background-image: url(30106.jpg);
     min-height: 500px;
 }
 .img1, .img2, .img3{
